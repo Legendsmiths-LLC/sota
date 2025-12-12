@@ -1,5 +1,5 @@
 # Shadow of the Atom
-A retro-future apocalypse RPG of mutants, mayhem, and atomic adventure powered by [Shadow of the Weird Wizard RPG](https://schwalbentertainment.com/shadow-of-the-weird-wizard/)
+A retro-future apocalypse RPG of mutants, mayhem, and atomic adventure powered by [Shadow of the Weird Wizard RPG][1]
 
 > **Under an Atomic Sky**  
 > I went out walking  
@@ -19,3 +19,12 @@ A retro-future apocalypse RPG of mutants, mayhem, and atomic adventure powered b
 ### Knowledge Is Prosperity
 ### Factions Shape The World
 ### We Are Not Alone
+## Inspiration
+70s science fiction informed by the history of the atomic age, the Cold War, RPG history (tabletop and computer), and all apocalyptic fiction. 
+### Relic Fashion and Appearance
+Logan’s Run, Colossus: The Forbin Project, Westworld, Clockwork Orange, Soylent Green, Andromeda Strain, Solaris, 
+### State of the World
+Damnation Alley, Stalker, Death Race 2000, No Blade of Grass, Logan’s Run ;)
+
+
+[1]:	https://schwalbentertainment.com/shadow-of-the-weird-wizard/
