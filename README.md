@@ -8,8 +8,8 @@
 > \- U2 with Johnny Cash, The Wanderer, Zooropa, 1993
 
 # Aspects of the World
-## The World Throbs Like An Open Sore
-## Total War Is Everywhere
+## The World Throbs Like An Open Sore 
+## Refuse of Total War Is Everywhere
 ## Useful Salvage Is Scarce
 ## Barter Is Commerce
 ## Community Is Survival
@@ -17,6 +17,7 @@
 ## Knowledge Is Prosperity
 ## Factions Shape The World
 ## We Are Not Alone
+## Alien Survivors Xenomorph the World
 
 # Inspiration
 70s science fiction informed by the history of the atomic age, the Cold War, RPG history (tabletop and computer), and all apocalyptic fiction. 
